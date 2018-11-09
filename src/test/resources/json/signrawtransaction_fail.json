@@ -1,0 +1,13 @@
+{
+  "hex": "0100000001b8b2244faca910c1ffff24ecd2b559b4699338398bf77e4cb1fdeb19ad419ea00100000000ffffffff012e2600000000000017a9140b2d7ed4e5076383ba8e98b9b3bce426b7a2ea1e8700000000",
+  "complete": false,
+  "errors": [
+    {
+      "txid": "a09e41ad19ebfdb14c7ef78b39389369b459b5d2ec24ffffc110a9ac4f24b2b8",
+      "vout": 1,
+      "scriptSig": "",
+      "sequence": 4294967295,
+      "error": "Operation not valid with the current stack size"
+    }
+  ]
+}

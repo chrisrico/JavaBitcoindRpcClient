@@ -1,0 +1,13 @@
+{
+  "walletname": "wallet.dat",
+  "walletversion": 139900,
+  "balance": 0.00000000,
+  "unconfirmed_balance": 0.00000000,
+  "immature_balance": 0.00000000,
+  "txcount": 0,
+  "keypoololdest": 1514355044,
+  "keypoolsize": 1000,
+  "keypoolsize_hd_internal": 999,
+  "paytxfee": 0.00000000,
+  "hdmasterkeyid": "4b599281041d1bb26306832c26d44f5890cd4052"
+}

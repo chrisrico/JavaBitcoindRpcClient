@@ -1,0 +1,410 @@
+[
+  {
+    "address": "1.1.178.61/32",
+    "banned_until": 1516486979,
+    "ban_created": 1516400579,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "13.57.48.63/32",
+    "banned_until": 1516476875,
+    "ban_created": 1516390475,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "37.194.5.78/32",
+    "banned_until": 1516445914,
+    "ban_created": 1516359514,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "39.87.190.176/32",
+    "banned_until": 1516432867,
+    "ban_created": 1516346467,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "39.104.87.118/32",
+    "banned_until": 1516472644,
+    "ban_created": 1516386244,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "45.76.238.157/32",
+    "banned_until": 1516484475,
+    "ban_created": 1516398075,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "46.4.101.162/32",
+    "banned_until": 1516461231,
+    "ban_created": 1516374831,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "46.28.68.169/32",
+    "banned_until": 1516429140,
+    "ban_created": 1516342740,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "47.104.81.160/32",
+    "banned_until": 1516433174,
+    "ban_created": 1516346774,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "51.15.185.141/32",
+    "banned_until": 1516432116,
+    "ban_created": 1516345716,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "60.177.167.238/32",
+    "banned_until": 1516430844,
+    "ban_created": 1516344444,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "61.6.45.170/32",
+    "banned_until": 1516451885,
+    "ban_created": 1516365485,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "61.32.31.241/32",
+    "banned_until": 1516478968,
+    "ban_created": 1516392568,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "64.111.20.122/32",
+    "banned_until": 1516504412,
+    "ban_created": 1516418012,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "69.243.208.19/32",
+    "banned_until": 1516438700,
+    "ban_created": 1516352300,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "77.34.100.141/32",
+    "banned_until": 1516460221,
+    "ban_created": 1516373821,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "81.139.15.7/32",
+    "banned_until": 1516502339,
+    "ban_created": 1516415939,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "83.217.12.6/32",
+    "banned_until": 1516442944,
+    "ban_created": 1516356544,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "84.16.242.193/32",
+    "banned_until": 1516451539,
+    "ban_created": 1516365139,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "84.253.86.98/32",
+    "banned_until": 1516430441,
+    "ban_created": 1516344041,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "92.249.142.22/32",
+    "banned_until": 1516487863,
+    "ban_created": 1516401463,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "93.115.27.148/32",
+    "banned_until": 1516456473,
+    "ban_created": 1516370073,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "95.149.249.169/32",
+    "banned_until": 1516497498,
+    "ban_created": 1516411098,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "105.186.249.202/32",
+    "banned_until": 1516431151,
+    "ban_created": 1516344751,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "105.212.61.42/32",
+    "banned_until": 1516483521,
+    "ban_created": 1516397121,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "106.6.91.220/32",
+    "banned_until": 1516431155,
+    "ban_created": 1516344755,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "106.6.93.167/32",
+    "banned_until": 1516490740,
+    "ban_created": 1516404340,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "109.73.6.250/32",
+    "banned_until": 1516429142,
+    "ban_created": 1516342742,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "110.77.0.211/32",
+    "banned_until": 1516465278,
+    "ban_created": 1516378878,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "110.175.247.14/32",
+    "banned_until": 1516464097,
+    "ban_created": 1516377697,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "113.161.49.140/32",
+    "banned_until": 1516430068,
+    "ban_created": 1516343668,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "113.161.162.195/32",
+    "banned_until": 1516481251,
+    "ban_created": 1516394851,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "113.190.255.14/32",
+    "banned_until": 1516509928,
+    "ban_created": 1516423528,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "114.252.208.5/32",
+    "banned_until": 1516502059,
+    "ban_created": 1516415659,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "115.28.153.248/32",
+    "banned_until": 1516509954,
+    "ban_created": 1516423554,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "115.231.148.26/32",
+    "banned_until": 1516441856,
+    "ban_created": 1516355456,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "116.100.227.75/32",
+    "banned_until": 1516469267,
+    "ban_created": 1516382867,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "118.71.224.238/32",
+    "banned_until": 1516470455,
+    "ban_created": 1516384055,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "118.173.146.129/32",
+    "banned_until": 1516444340,
+    "ban_created": 1516357940,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "118.173.148.191/32",
+    "banned_until": 1516486173,
+    "ban_created": 1516399773,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "118.190.85.232/32",
+    "banned_until": 1516458485,
+    "ban_created": 1516372085,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "120.5.221.94/32",
+    "banned_until": 1516483752,
+    "ban_created": 1516397352,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "124.13.194.52/32",
+    "banned_until": 1516502342,
+    "ban_created": 1516415942,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "139.129.108.139/32",
+    "banned_until": 1516453612,
+    "ban_created": 1516367212,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "156.67.53.7/32",
+    "banned_until": 1516437938,
+    "ban_created": 1516351538,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "160.178.183.74/32",
+    "banned_until": 1516506788,
+    "ban_created": 1516420388,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "171.233.198.147/32",
+    "banned_until": 1516434499,
+    "ban_created": 1516348099,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "173.249.11.207/32",
+    "banned_until": 1516433327,
+    "ban_created": 1516346927,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "175.139.17.177/32",
+    "banned_until": 1516441512,
+    "ban_created": 1516355112,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "178.134.118.218/32",
+    "banned_until": 1516473074,
+    "ban_created": 1516386674,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "178.184.132.161/32",
+    "banned_until": 1516495119,
+    "ban_created": 1516408719,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "182.237.23.186/32",
+    "banned_until": 1516451239,
+    "ban_created": 1516364839,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "183.88.224.231/32",
+    "banned_until": 1516445834,
+    "ban_created": 1516359434,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "185.83.36.1/32",
+    "banned_until": 1516511256,
+    "ban_created": 1516424856,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "185.154.72.16/32",
+    "banned_until": 1516483815,
+    "ban_created": 1516397415,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "188.129.249.168/32",
+    "banned_until": 1516445529,
+    "ban_created": 1516359129,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "188.187.40.149/32",
+    "banned_until": 1516445832,
+    "ban_created": 1516359432,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "193.151.59.177/32",
+    "banned_until": 1516483671,
+    "ban_created": 1516397271,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "193.165.126.22/32",
+    "banned_until": 1516485812,
+    "ban_created": 1516399412,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "200.119.112.122/32",
+    "banned_until": 1516508316,
+    "ban_created": 1516421916,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "213.149.2.80/32",
+    "banned_until": 1516508833,
+    "ban_created": 1516422433,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "213.211.168.155/32",
+    "banned_until": 1516453829,
+    "ban_created": 1516367429,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "218.214.101.214/32",
+    "banned_until": 1516486684,
+    "ban_created": 1516400284,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "218.241.251.146/32",
+    "banned_until": 1516509033,
+    "ban_created": 1516422633,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "219.132.232.69/32",
+    "banned_until": 1516448358,
+    "ban_created": 1516361958,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "221.232.134.62/32",
+    "banned_until": 1516487945,
+    "ban_created": 1516401545,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "222.210.227.45/32",
+    "banned_until": 1516504553,
+    "ban_created": 1516418153,
+    "ban_reason": "node misbehaving"
+  }, 
+  {
+    "address": "222.249.255.99/32",
+    "banned_until": 1516500719,
+    "ban_created": 1516414319,
+    "ban_reason": "node misbehaving"
+  }
+]

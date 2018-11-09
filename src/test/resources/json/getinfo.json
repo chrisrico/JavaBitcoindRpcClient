@@ -1,0 +1,18 @@
+{
+  "deprecation-warning": "WARNING: getinfo is deprecated and will be fully removed in 0.16. Projects should transition to using getblockchaininfo, getnetworkinfo, and getwalletinfo before upgrading to 0.16",
+  "version": 150100,
+  "protocolversion": 70015,
+  "walletversion": 139900,
+  "balance": 0.00000000,
+  "blocks": 505118,
+  "timeoffset": 0,
+  "connections": 108,
+  "proxy": "",
+  "difficulty": 2227847638503.628,
+  "testnet": false,
+  "keypoololdest": 1514355044,
+  "keypoolsize": 1999,
+  "paytxfee": 0.00000000,
+  "relayfee": 0.00001000,
+  "errors": ""
+}

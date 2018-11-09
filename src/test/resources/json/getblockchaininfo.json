@@ -1,0 +1,48 @@
+{
+  "chain": "main",
+  "blocks": 505118,
+  "headers": 505118,
+  "bestblockhash": "0000000000000000002390d18ae414243164abba44108953e095e9dec01a197e",
+  "difficulty": 2227847638503.628,
+  "mediantime": 1516426799,
+  "verificationprogress": 0.9999988823778559,
+  "chainwork": "000000000000000000000000000000000000000000f187b0209bb69721405275",
+  "pruned": false,
+  "softforks": [
+    {
+      "id": "bip34",
+      "version": 2,
+      "reject": {
+        "status": true
+      }
+    }, 
+    {
+      "id": "bip66",
+      "version": 3,
+      "reject": {
+        "status": true
+      }
+    }, 
+    {
+      "id": "bip65",
+      "version": 4,
+      "reject": {
+        "status": true
+      }
+    }
+  ],
+  "bip9_softforks": {
+    "csv": {
+      "status": "active",
+      "startTime": 1462060800,
+      "timeout": 1493596800,
+      "since": 419328
+    },
+    "segwit": {
+      "status": "active",
+      "startTime": 1479168000,
+      "timeout": 1510704000,
+      "since": 481824
+    }
+  }
+}
